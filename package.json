@@ -1,0 +1,12 @@
+{
+  "name": "osanto-backend",
+  "version": "2.0.0",
+  "description": "Backend de envio via SendPulse para o OSANTO DISPARADOR EMAIL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
